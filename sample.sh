@@ -2,7 +2,6 @@ curl -H "Content-Type: application/json" -X POST -d \
 	'{
 	    "from": "90si", 
 	    "to": "cindy.yu.cy@gmail.com", 
-	    "subject": "SUBJECT", 
 	    "text": "Hello world ✔", 
 	    "attachments": [
 			{
